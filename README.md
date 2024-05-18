@@ -11,7 +11,7 @@
 </div>
 
 ## Contato
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_wesley_san/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wesley.dev/)
 
 ## 🚀 Skills
 ### Development technologies
