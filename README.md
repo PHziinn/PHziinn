@@ -1,12 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6dd91a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6dd91a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wesley+Santos;I'm+25+years+old;I'm+from+Teresina,+PI;I'm+Study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6dd91a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wesley+Santos;I'm+26+years+old;I'm+from+Teresina,+PI;I'm+Study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PHziinn&count_private=true&locale=pt-br&show_icons=true&theme=transparent&title_color=6dd91a&icon_color=6dd91a&hide_border=true&custom_title=Estatísticas do GitHub do Wesley&ring_color=b6e336" alt="Estatísticas do GitHub do Wesle" /> 
-  <img width="40%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHziinn&count_private=true&layout=compact&&theme=transparent&locale=pt-br&title_color=6dd91a&hide_border=true&custom_title=Linguagem Mais Usadas" /><br/>
-
-</div>
 
 ## Contact
 
@@ -35,9 +30,14 @@
 
 </div>
 
+
+### Our GitStats
+
+
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PHziinn}/count.svg" /></p> 
-<br></div>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PHziinn&theme=tokyonight&hide_border=true&ring=6dd91a&fire=84cc16&currStreakLabel=6dd91a&currStreakNum=84cc16&sideLabels=86efac&sideNums=84cc16&dates=4ade80&background=0d1117&stroke=14532d" />
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6dd91a&height=120&section=footer"/>
